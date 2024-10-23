@@ -18,23 +18,23 @@
 ![Image text](./public/template/1.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/2.png)
+![Image text](./public/template/2.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/3.png)
+![Image text](./public/template/3.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/4.png)
+![Image text](./public/template/4.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/5.png)
+![Image text](./public/template/5.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/6.png)
+![Image text](./public/template/6.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/7.png)
+![Image text](./public/template/7.png)
 <br/>
 <br/>
-![Image text](https://gitee.com/phpgoer/freeswitch-gui-laravel/blob/4.0/public/template/8.png)
+![Image text](./public/template/8.png)
 
